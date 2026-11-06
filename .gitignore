@@ -1,0 +1,16 @@
+# Keil uVision generated build output
+*.axf
+*.crf
+*.d
+*.dep
+*.hex
+*.htm
+*.lnp
+*.map
+*.o
+
+# Per-user IDE state and transient logs
+*.uvguix.*
+*.log
+*.log.lock
+*.lock
