@@ -9,6 +9,9 @@
 *.map
 *.o
 
+# Test build output
+Tests/build/
+
 # Per-user IDE state and transient logs
 *.uvguix.*
 *.log

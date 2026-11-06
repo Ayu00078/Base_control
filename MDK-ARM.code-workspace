@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../dart-ros2-workspace-dart25/src/dart_mcu/MDK-ARM"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
